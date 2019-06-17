@@ -1,0 +1,2 @@
+Flask
+git+https://github.com/edx/XBlock.git@xblock-1.1.1#egg=xblock==1.1.1

@@ -1,0 +1,2 @@
+-r base.txt
+pydevd-pycharm~=191.6605.12
